@@ -12,7 +12,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 #include <DNSServer.h>
 #include <ESP8266WebServer.h>
 #include <WiFiManager.h>
-#include <Bounce2.h>
+#include <Bounce2.h> //-> https://github.com/thomasfredericks/Bounce2 
 
 
 // Configuração do acesso ao Broker MQTT
